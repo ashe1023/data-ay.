@@ -4,13 +4,11 @@
   </head>
   <body>
     https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing
+    https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view
     <H2>目錄</H2>
     <A HREF=#zl>參考資料</A>
     <A HREF="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing">PZ</A>
-    <MAP NAME="PDF_map">
-      <AREA SHAP="rect" COORDS="6, 6, 46, 46" HREF="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing">
-    <iframe src="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/preview" width="640" height="480"></iframe>
-    </MAP>
+    
     <H2><A NAME=zl></a>參考資料</H2>
     <h5><A HREF ="https://zh.wikipedia.org/wiki/%E9%BE%90%E8%8C%B2%E9%A8%99%E5%B1%80">龐氏騙局 - 維基百科，自由的百科全書</A></h5>
     <h5><A HREF ="http://wiki.mbalib.com/zh-tw/%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80">龐氏騙局 - MBA智庫百科</A></h5>
