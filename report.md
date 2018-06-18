@@ -8,6 +8,7 @@
     <A HREF=#zl>參考資料</A>
     <A HREF="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing">PZ</A>
     <MAP NAME="PDF_map">
+      <AREA SHAP="rect" COORDS="6, 6, 46, 46" HREF="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing">
     <iframe src="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/preview" width="640" height="480"></iframe>
     </MAP>
     <H2><A NAME=zl></a>參考資料</H2>
