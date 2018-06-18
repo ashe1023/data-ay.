@@ -1,6 +1,5 @@
 <html>
-  <H1>龐氏騙局</H1>
-  <H1>Ponzi scheme</H1>
+  <H1>龐氏騙局 Ponzi scheme</H1>
   <h5>隊名：紅樓夢隊</h5>
   <h5>成員：沈怡姍、蔡瑄、曾柏恩、陳慬瑜</h5>
 <OL>
