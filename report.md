@@ -3,7 +3,7 @@
   <H3>目錄</H3>
   <A HREF=#zl>參考資料</A>
   <A HREF="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing">PZ</A>
-   <center><embed src="https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing" width="850" height="600"></center>
+ https://drive.google.com/file/d/1Imig8A_4Bh0aEcRDsyqt7ctbpoJs5cmq/view?usp=sharing
 
   
   <H2><A NAME=zl></a>參考資料</H2>
