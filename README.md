@@ -6,4 +6,5 @@
 frameborder="0" width="600" scrolling="yes" height="400"></iframe> 
 ＜iframe src="http://docs.google.com/gview?url=http://www.allenj.sk-isc.com/wp-content/uploads/2014/03/abc.pdf&embedded=true"
 style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src=”http://docs.google.com/gview?url=https://www.qna.tw/upload_file/EMASREPORT.pdf&embedded=true” style=”width:600px; height:500px;” frameborder=”0″></iframe>
 </html>
