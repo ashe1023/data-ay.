@@ -11,9 +11,15 @@
     <H3>報告內容主軸</H3>
     <OL TYPE=A>
       <li>歷史由來
+        <OL>
+          <LI><H5>背景：第一次世界大戰</H5>
+          <LI><H5></H5>
+          <LI><H5></H5>
+        </OL>
       <li>例子
       <li>核心
       <li>維持方式 
+    </OL>
     
 <H2><A NAME=fk></a>分工表</H2>
   <ul type=disc>
