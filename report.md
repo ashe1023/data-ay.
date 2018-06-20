@@ -34,6 +34,5 @@
     <h5><A HREF ="https://medium.com/@karlchankaho/https-medium-com-karlchankaho-table-format-comparing-bitcoin-ponzi-and-tunip-fever-613bb5192f86">比特幣與「鬱金香泡沬」及「龐氏騙局」的異同（列表） – Karl ．創業．加密幣 - Medium</A></h5>
     <h5><A HREF ="https://hk.finance.appledaily.com/finance/daily/article/20171215/20245507">Webb：比特幣是龐氏騙局| 蘋果日報| 財經地產| 20171215</A></h5>
     <h5><A HREF ="https://www.jgospel.net/c/2/69367/347/3986/%E7%A4%BE%E6%9C%83%E4%BF%9D%E9%9A%AA%E5%88%B6%E5%BA%A6%E6%98%AF%E2%80%9C%E9%BE%90%E6%B0%8F%E9%A8%99%E5%B1%80%E2%80%9D%E5%97%8E.aspx">社會保險制度是“龐氏騙局”嗎< 財經| jgospel.net 福音站.com</A></h5>
-    <h5><A HREF ="https://journal.eyeprophet.com/%E4%B8%96%E7%B4%80%E6%8A%95%E8%B3%87%E5%A4%A7%E9%A8%99%E8%A1%93%E2%94%80%E9%BE%90%E6%B0%8F%E9%A8%99%E5%B1%80/">世紀投資大騙術─ 龐氏騙局| 預見雜誌</A></h5>
      <h5><A HREF ="https://www.zhoulujun.cn/html/res/literature/essay/2015_0927_299.html">社保，世界史最大的龐氏騙局！當我們老去，社保是什么？ - 雜文小粹- 周陸軍的個人網站</A></h5>
 </html>
